@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m Ibrahim Ahmed Abdelnaby
+- 👋 Hi, I’m Ibrahim Ahmed Abdelnaby
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning web developement
 - 📧 ibrahim11elian@gmail.com
