@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋</h3>
+<h2 align="center"> Hi there 👋</h3>
 
 <p align="center">
 I'm Ibrahim Ahmed, a javascript full stack web developer.
@@ -44,8 +44,6 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### 🔤 Programming languages
 
-<hr/>
-
 <p align="left"> 
   
   &emsp;&ensp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -56,8 +54,6 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
 ### 👩‍💻 Frontend Development
-
-<hr/>
 
 <p align="left"> 
   
@@ -70,8 +66,6 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### ☁️ Cloud Hosting
 
-<hr/>
-
 <p align="left">
   
   &emsp;
@@ -81,8 +75,6 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
 ### 🗄️ Backend & Frameworks
-
-<hr/>
 
 <p align="left">
   
@@ -94,8 +86,6 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### 👩‍💻 Version Control
 
-<hr/>
-
 <p align="left">
   
  &emsp;&ensp;![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -104,8 +94,6 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
 ### 👨‍💻 Software & Tools
-
-<hr/>
 
 <p align="left">
 
@@ -122,8 +110,6 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### 💡 Problem Solving
 
-<hr/>
-
 <p align="left">
   
 &emsp;&ensp;![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -134,9 +120,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 <br/>
 
-## 💻 Learning Sources
-
-<hr/>
+### 💻 Learning Sources
 
 <p align="left">
   
@@ -149,3 +133,15 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 </p>
+
+<style>
+  h3{
+    border-bottom: 0.5px solid #ffffff57;
+    background-color: #011627c4;
+    width: fit-content;
+    padding: 2px 6px;
+    border-radius: 5px;
+  }
+
+
+</style>
