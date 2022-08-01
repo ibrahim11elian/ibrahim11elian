@@ -4,29 +4,30 @@
 I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
+<p align="center"><img src="assets/coding.gif" width="40%"></p>
 
- ## 🤙 Contact me
+## 🤙 Contact me
+
  <p align="left">
   
-<a href="https://www.linkedin.com/in/ibrahim-ahmed-a8bba9196" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+  <a href="https://www.linkedin.com/in/ibrahim-ahmed-a8bba9196" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
   <a href="https://www.facebook.com/ibrahim11ahmed" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-</a>
+  </a>
   <a href="mailto:ibrahim11elian@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
+  </a>
   <a href="tel:+201157676284" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-</a>
+  </a>
   <a href="https://www.instagram.com/ibrahim11ahmed/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a>
+  </a>
   <a href="https://twitter.com/ibrahim11elian" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-</a>
+  </a>
   
  </p> 
   </br>
 
+## 📈 Stats
 
- ## 📈 Stats
- 
 <div align="center">
   
 &emsp;&ensp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibrahim11elian&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
@@ -37,11 +38,13 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim11elian&theme=nightowl&hide_border=true&layout=compact&line_height=)
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ibrahim11elian&bg_color=011627&color=feea94&line=c691e9&point=ffffff&area=true&hide_border=true)  
-  
- ## 🛠️ My Skills
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ibrahim11elian&bg_color=011627&color=feea94&line=c691e9&point=ffffff&area=true&hide_border=true)
+
+## 🛠️ My Skills
 
 ### 🔤 Programming languages
+
+<hr/>
 
 <p align="left"> 
   
@@ -54,6 +57,8 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### 👩‍💻 Frontend Development
 
+<hr/>
+
 <p align="left"> 
   
  &emsp;&ensp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,6 +70,8 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### ☁️ Cloud Hosting
 
+<hr/>
+
 <p align="left">
   
   &emsp;
@@ -75,6 +82,8 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### 🗄️ Backend & Frameworks
 
+<hr/>
+
 <p align="left">
   
 &emsp;&ensp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -83,8 +92,9 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
   
 </p>
 
-
 ### 👩‍💻 Version Control
+
+<hr/>
 
 <p align="left">
   
@@ -93,7 +103,9 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 </p>
 
-###  👨‍💻 Software & Tools
+### 👨‍💻 Software & Tools
+
+<hr/>
 
 <p align="left">
 
@@ -110,6 +122,8 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 ### 💡 Problem Solving
 
+<hr/>
+
 <p align="left">
   
 &emsp;&ensp;![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -120,7 +134,9 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 <br/>
 
- ## 💻 Learning Sources
+## 💻 Learning Sources
+
+<hr/>
 
 <p align="left">
   
@@ -132,5 +148,4 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-</p> 
- 
+</p>
