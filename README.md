@@ -1,15 +1,3 @@
-<style>
-
-  h3{
-    border-bottom: 0.5px solid #ffffff57;
-    background-color: #011627c4;
-    width: fit-content;
-    padding: 2px 6px;
-    border-radius: 5px;
-  }
-
-</style>
-
 <h2 align="center"> Hi there 👋</h3>
 
 <p align="center">
@@ -17,6 +5,8 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
 <p align="center"><img src="assets/coding.gif" width="40%"></p>
+</br>
+</br>
 
 ## 🤙 Contact me
 
@@ -51,8 +41,12 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ibrahim11elian&bg_color=011627&color=feea94&line=c691e9&point=ffffff&area=true&hide_border=true)
+</br>
 
 ## 🛠️ My Skills
+
+</br>
+</br>
 
 ### 🔤 Programming languages
 
@@ -64,6 +58,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   
 </p>
+</br>
 
 ### 👩‍💻 Frontend Development
 
@@ -75,6 +70,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </p>
+</br>
 
 ### ☁️ Cloud Hosting
 
@@ -85,6 +81,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 </p>
+</br>
 
 ### 🗄️ Backend & Frameworks
 
@@ -95,6 +92,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   
 </p>
+</br>
 
 ### 👩‍💻 Version Control
 
@@ -104,6 +102,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </p>
+</br>
 
 ### 👨‍💻 Software & Tools
 
@@ -119,6 +118,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 </p>
+</br>
 
 ### 💡 Problem Solving
 
@@ -129,8 +129,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
 </p>
-
-<br/>
+</br>
 
 ### 💻 Learning Sources
 
