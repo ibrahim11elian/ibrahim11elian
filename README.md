@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Ibrahim Ahmed Abdelnaby
-- 👀 I’m interested in computer science
+<h3 align="center"> Hi there 👋</h3>
+
+<p align="center">
+I'm Ibrahim Ahmed, a javascript full stack web developer.
+</p>
+
 
  ## 🤙 Contact me
  <p align="left">
