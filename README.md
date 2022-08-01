@@ -1,3 +1,15 @@
+<style>
+
+  h3{
+    border-bottom: 0.5px solid #ffffff57;
+    background-color: #011627c4;
+    width: fit-content;
+    padding: 2px 6px;
+    border-radius: 5px;
+  }
+
+</style>
+
 <h2 align="center"> Hi there 👋</h3>
 
 <p align="center">
@@ -133,15 +145,3 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 </p>
-
-<style>
-
-  h3{
-    border-bottom: 0.5px solid #ffffff57;
-    background-color: #011627c4;
-    width: fit-content;
-    padding: 2px 6px;
-    border-radius: 5px;
-  }
-
-</style>
