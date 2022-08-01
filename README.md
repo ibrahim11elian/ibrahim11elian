@@ -135,6 +135,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
 <style>
+
   h3{
     border-bottom: 0.5px solid #ffffff57;
     background-color: #011627c4;
@@ -142,6 +143,5 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
     padding: 2px 6px;
     border-radius: 5px;
   }
-
 
 </style>
