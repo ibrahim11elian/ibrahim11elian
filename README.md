@@ -5,6 +5,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
 <p align="center"><img src="assets/coding.gif" width="40%"></p>
+<p align = "center">![](https://komarev.com/ghpvc/?username=ibrahim11elian&style=for-the-badge&color=011627) </p>
 </br>
 </br>
 
