@@ -101,6 +101,15 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 </br>
 
+### 🛢 Database
+
+<p align="left">
+  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</p>
+</br>
+
 ### 👩‍💻 Version Control
 
 <p align="left">
