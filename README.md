@@ -47,7 +47,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim11elian&theme=nightowl&hide_border=true&layout=compact&line_height=)
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ibrahim11elian&bg_color=011627&color=feea94&line=c691e9&point=ffffff&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ibrahim11elian&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br>
 
 ## 🛠️ My Skills
