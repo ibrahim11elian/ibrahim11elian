@@ -39,7 +39,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibrahim11elian&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibrahim11elian&theme=nightowl&hide_border=true)
 </div> 
  
 <div align="center">
@@ -47,7 +47,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim11elian&theme=nightowl&hide_border=true&layout=compact&line_height=)
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim11elian&theme=rogue)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim11elian&theme=rogue)
 </br>
 
 ## 🛠️ My Skills
