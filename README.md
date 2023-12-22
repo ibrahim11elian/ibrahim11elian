@@ -4,7 +4,10 @@
 I'm Ibrahim Ahmed, a javascript full stack web developer.
 </p>
 
-<p align="center"><img src="assets/coding.gif" width="40%"></p>
+<p align="center">
+  <!-- <img src="assets/coding.gif" width="40%"> -->
+  <a href="https://app.daily.dev/ibrahim11ahmed"><img src="https://api.daily.dev/devcards/ce4a567f61944a2a8effdf2846c47a0b.png?r=lyz" width="400" alt="Ibrahim Ahmed Abdelnaby's Dev Card"/></a>
+</p>
 
 <div align = "center">
 
