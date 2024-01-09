@@ -42,7 +42,7 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahim11elian&theme=nightowl&hide_border=true)](https://streak-stats.demolab.com/demo/)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahim11elian&theme=nightowl&hide_border=true)
 
 </div> 
  
