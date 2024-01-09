@@ -41,8 +41,9 @@ I'm Ibrahim Ahmed, a javascript full stack web developer.
 ## 📈 Stats
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibrahim11elian&theme=nightowl&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahim11elian&theme=nightowl&hide_border=true)](https://streak-stats.demolab.com/demo/)
+
 </div> 
  
 <div align="center">
