@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Ibrahim Ahmed, a javascript full stack web developer.
+I'm Ibrahim Ahmed, a Software Engineer.
 </p>
 
 <p align="center">
