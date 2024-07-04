@@ -178,6 +178,7 @@ I'm Ibrahim Ahmed, a Software Engineer.
 
 </p>
 
-![GitHub Snake dark](https://github.com/ibrahim11elian/ibrahim11elian/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/ibrahim11elian/ibrahim11elian/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake.svg#gh-light-mode-only)
+
 
