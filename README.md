@@ -177,3 +177,7 @@ I'm Ibrahim Ahmed, a Software Engineer.
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 </p>
+
+![GitHub Snake dark](https://github.com/ibrahim11elian/ibrahim11elian/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/ibrahim11elian/ibrahim11elian/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
