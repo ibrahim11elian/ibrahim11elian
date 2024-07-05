@@ -2,7 +2,7 @@
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahim11elian&style=for-the-badge&color=011627" alt="Profile Views" style="height:21px;">
  Software Engineer
-  <a href="https://ibrahim-ahmed.netlify.app/">
+  <a href="https://ibrahim-ahmed.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:21px;">
   </a>
 </h2>
@@ -169,6 +169,15 @@
   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
   
   </p>
+</details>
+
+<details>
+  <summary><strong>Click to see a random joke</strong></summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23073b4c&textColor=%f8ee96)
+
+  </div>
 </details>
 
 
