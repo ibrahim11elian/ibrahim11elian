@@ -49,7 +49,6 @@
   </div>
 </details>
 
-
 ## 🛠️ My Skills
 
 <details>
@@ -74,7 +73,9 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -175,13 +176,10 @@
   <summary><strong>Click to see a random joke</strong></summary>
   <div align="center">
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23073b4c&textColor=%f8ee96)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23073b4c&textColor=%f8ee96)
 
   </div>
 </details>
 
-
 ![GitHub Snake dark](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake light](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake.svg#gh-light-mode-only)
-
-
