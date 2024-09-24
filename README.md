@@ -15,8 +15,7 @@
 </br>
 </br>
 
-<details>
-  <summary><h2>🤙 Contact me</h2></summary>
+<h2>🤙 Contact me</h2>
   <p>
     <i>You can reach out to me via</i><br>
     <a href="https://www.linkedin.com/in/ibrahim-ahmed-a8bba9196" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -26,7 +25,6 @@
     <a href="https://www.instagram.com/ibrahim11ahmed/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://twitter.com/ibrahim11elian" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
   </p>
-</details>
 
 <details>
   <summary><h2>📈 GitHub Stats</h2></summary>
